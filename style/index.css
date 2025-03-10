@@ -1,51 +1,51 @@
 /*styles for header*/
 @import "header/header.css";
-@import "header/__logo/header__logo.css";
-@import "header/__links/header__links.css";
-@import "header/__link/header__link.css";
-@import "header/__link/_type/header__link_type_active.css";
+@import "header/logo/header__logo.css";
+@import "header/links/header__links.css";
+@import "header/link/header__link.css";
+@import "header/link/_type/header__link_type_active.css";
 
 /*styles for lead*/
 @import "lead/lead.css";
-@import "lead/__title/lead__title.css";
-@import "lead/__subtitle/lead__subtitle.css";
-@import "lead/__img/lead__img.css";
-@import "lead/__caption/lead__caption.css";
+@import "lead/title/lead__title.css";
+@import "lead/subtitle/lead__subtitle.css";
+@import "lead/img/lead__img.css";
+@import "lead/caption/lead__caption.css";
 
 /*styles for intro*/
 @import "intro/intro.css";
-@import "intro/__title/intro__title.css";
-@import "intro/__text/intro__text.css";
-@import "intro/__list/intro__list.css";
+@import "intro/title/intro__title.css";
+@import "intro/text/intro__text.css";
+@import "intro/list/intro__list.css";
 
 /*styles for photo*/
 @import "photo/photo.css";
-@import "photo/__item/photo__item.css";
+@import "photo/item/photo__item.css";
 
 /*styles for place*/
 @import "place/place.css";
-@import "place/__card/place__card.css";
-@import "place/__title/place__title.css";
-@import "place/__img/place__img.css";
-@import "place/__web/place__web.css";
-@import "place/__url/place__url.css";
-@import "place/__link/place__link.css";
-@import "place/__text/place__text.css";
-@import "place/__paragraph/place__paragraph.css";
+@import "place/card/place__card.css";
+@import "place/title/place__title.css";
+@import "place/img/place__img.css";
+@import "place/web/place__web.css";
+@import "place/url/place__url.css";
+@import "place/link/place__link.css";
+@import "place/text/place__text.css";
+@import "place/paragraph/place__paragraph.css";
 
 /*styles for cover*/
 @import "cover/cover.css";
-@import "cover/__content/cover__content.css";
-@import "cover/__title/cover__title.css";
-@import "cover/__subtitle/cover__subtitle.css";
-@import "cover/__img/cover__img.css";
-@import "cover/__overlay/cover__overlay.css";
+@import "cover/content/cover__content.css";
+@import "cover/title/cover__title.css";
+@import "cover/subtitle/cover__subtitle.css";
+@import "cover/img/cover__img.css";
+@import "cover/overlay/cover__overlay.css";
 
 /*styles for footer*/
 @import "footer/footer.css";
-@import "footer/__links/footer__links.css";
-@import "footer/__link/footer__link.css";
-@import "footer/__copyright/footer__copyright.css";
+@import "footer/links/footer__links.css";
+@import "footer/link/footer__link.css";
+@import "footer/copyright/footer__copyright.css";
 
 /* --modifiers-- */
 /*fonts*/
