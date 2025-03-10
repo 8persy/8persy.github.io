@@ -3,7 +3,7 @@
 @import "header/logo/header__logo.css";
 @import "header/links/header__links.css";
 @import "header/link/header__link.css";
-@import "header/link/type/header__link_type_active.css";
+@import "header/link/@type/header__link_type_active.css";
 
 /*styles for lead*/
 @import "lead/lead.css";
@@ -48,7 +48,7 @@
 @import "footer/copyright/footer__copyright.css";
 
 /* --modifiers-- */
-/*fonts*/
+/*@fonts*/
 @import "fonts/fonts.css";
 
 @import "modifiers/font-size/font-size_xxl.css";
