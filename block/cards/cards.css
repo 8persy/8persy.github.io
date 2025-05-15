@@ -1,13 +1,13 @@
-@import "__add-button/cards__add-button.css";
-@import "__card/cards__card.css";
-@import "__img/cards__img.css";
-@import "__bin-box/cards__bin-box.css";
-@import "__bin-img/cards__bin-img.css";
-@import "__title/cards__title.css";
-@import "__price/cards__price.css";
-@import "__price/cards__price-count.css";
-@import "__price/cards__price-currency.css";
-@import "__tags/cards__tags.css";
+@import "add-button/cards__add-button.css";
+@import "card/cards__card.css";
+@import "img/cards__img.css";
+@import "bin-box/cards__bin-box.css";
+@import "bin-img/cards__bin-img.css";
+@import "title/cards__title.css";
+@import "price/cards__price.css";
+@import "price/cards__price-count.css";
+@import "price/cards__price-currency.css";
+@import "tags/cards__tags.css";
 
 
 .cards {

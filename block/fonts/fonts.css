@@ -1,3 +1,3 @@
-@import "__size/fonts__size.css";
-@import "__family/fonts__family.css";
-@import "__color/fonts__color.css";
+@import "size/fonts__size.css";
+@import "family/fonts__family.css";
+@import "color/fonts__color.css";

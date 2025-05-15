@@ -1,12 +1,12 @@
-@import "__count/sidebar__count.css";
-@import "__line/sidebar__line.css";
-@import "__filter/sidebar__filter.css";
-@import "__title/sidebar__title.css";
-@import "__list/sidebar__list.css";
-@import "__range/sidebar__range.css";
-@import "__number-box/sidebar__number-box.css";
-@import "__number/sidebar__number.css";
-@import "__list-item/sidebar__list-item.css";
+@import "count/sidebar__count.css";
+@import "line/sidebar__line.css";
+@import "filter/sidebar__filter.css";
+@import "title/sidebar__title.css";
+@import "list/sidebar__list.css";
+@import "range/sidebar__range.css";
+@import "number-box/sidebar__number-box.css";
+@import "number/sidebar__number.css";
+@import "list-item/sidebar__list-item.css";
 
 .sidebar {
     padding-right: 10px;
