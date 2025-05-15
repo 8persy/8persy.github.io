@@ -13,3 +13,21 @@
     border-right-width: 1px;
     width: 25%;
 }
+
+@media (max-device-width: 490px) {
+    .sidebar {
+        width: 30%;
+    }
+}
+
+@media (max-device-width: 420px) {
+    .sidebar {
+        width: 35%;
+    }
+}
+
+    @media (max-device-width: 391px) {
+    .sidebar {
+        width: 45%;
+    }
+}

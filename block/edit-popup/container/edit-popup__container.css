@@ -8,3 +8,15 @@
     max-width: 800px;
     width: 95%;
 }
+
+@media screen and (max-device-width: 500px){
+    .edit-popup__container {
+        gap: 8px;
+    }
+}
+
+@media screen and (max-device-width: 400px){
+    .edit-popup__container {
+        gap: 1px;
+    }
+}

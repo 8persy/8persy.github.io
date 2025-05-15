@@ -57,6 +57,19 @@
     box-shadow: 5px 5px 15px rgba(128, 128, 128, 0.21);
 }
 
+@media screen and (max-device-width: 750px) {
+    .main {
+        width: 90%;
+    }
+}
+
+@media screen and (max-device-width: 700px) {
+    .main {
+        width: 95%;
+    }
+}
+
+
 @media screen and (max-device-width: 450px) {
     .main {
         padding: 0.8rem;
