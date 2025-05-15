@@ -1,0 +1,11 @@
+.show-popup__tags {
+    width: 130px;
+    margin: 20px 0;
+    padding: 7px 10px;
+    border: none;
+    background-color: #5070A0;
+    color: #fff;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+}
